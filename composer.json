@@ -1,0 +1,12 @@
+{
+  "name": "linpax/microphp-app-lite",
+  "description": "MicroPHP application template Lite",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.4.0",
+    "ext-mbstring": "*",
+    "lib-pcre": ">=8.31",
+    "linpax/microphp-framework": "dev-master"
+  }
+}
