@@ -1,8 +1,8 @@
 <?php
 
-namespace App\controllers;
+namespace App\Controllers;
 
-use Micro\mvc\controllers\ViewController;
+use Micro\Mvc\Controllers\ViewController;
 
 class DefaultController extends ViewController
 {
